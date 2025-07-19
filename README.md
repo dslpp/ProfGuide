@@ -26,6 +26,10 @@
   - Хранение данных с помощью базы данных (PostgreSQL)
 > [!NOTE]
 > Как реализовать? Серверно или локально ( = геморно);
+>
+
+
+[Ссылка на макет приложения](https://www.figma.com/design/Q8K6XSJ083t9pLBKiGBRM6/ProfGuide?node-id=0-1&t=703ZfJhYXE8U8ieY-1).
 
     
     
